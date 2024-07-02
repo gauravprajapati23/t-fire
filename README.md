@@ -30,5 +30,13 @@ chmod +x *
 
 ---
 
+## Collaborators ✨
+
+<p>
+  <a href="https://github.com/pradnyatavandkar25" style="margin: 0 30px;">
+    <img src="https://avatars.githubusercontent.com/pradnyatavandkar25" width="70px;" style="border-radius: 50%;" alt="Gaurav Prajapati"/>
+  </a>
+</p>
+
 # Description
 This script was created to help the android user to host there websites with fire base easily and also to manage index file properly by storing it in file storage and seperate folders.
