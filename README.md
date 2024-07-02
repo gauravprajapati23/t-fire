@@ -1,4 +1,4 @@
-# Termux App Project
+# T - Fire
 
 ![Header Image](header.jpg)
 
