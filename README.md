@@ -12,9 +12,9 @@
 pkg install git
 
 # Clone the Repository
-git clone <repo-link>
-cd project-directory
-chmod +x 
+git clone https://github.com/gauravprajapati23/t-fire
+cd t-fire
+chmod +x *
 
 # Run Setup Script
 ./setup.sh
