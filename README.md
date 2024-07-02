@@ -4,23 +4,23 @@
 
 ---
 
-### Installation
+# Installation
 
 
-# Install Git
+## Install Git
 pkg install git
 
-# Clone the Repository
+## Clone the Repository
 git clone https://github.com/gauravprajapati23/t-fire
 cd t-fire
 chmod +x *
 
-# Run Setup Script
+## Run Setup Script
 ./setup.sh
 
-# Run Initialising Script
+## Run Initialising Script
 ./init.sh
 
-# Run Hosting Script
+## Run Hosting Script
 ./host.sh
 
