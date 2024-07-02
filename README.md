@@ -6,7 +6,6 @@
 
 ### Installation
 
-```sh
 
 # Install Git
 pkg install git
