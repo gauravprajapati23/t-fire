@@ -6,6 +6,8 @@
 
 # Installation
 
+# Before 
+Before installing this file make a folder to your phone's internal Storage named : #Coding and remember don't delete it of don't keep any other things in it...
 
 ## Install Git
 pkg install git
@@ -26,3 +28,7 @@ chmod +x *
 ## Run Hosting Script
 ./host.sh
 
+---
+
+# Description
+This script was created to help the android user to host there websites with fire base easily and also to manage index file properly by storing it in file storage and seperate folders.
