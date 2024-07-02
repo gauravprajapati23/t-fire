@@ -1,6 +1,6 @@
 # Termux App Project
 
-![Header Image](img/header.jpg)
+![Header Image](header.jpg)
 
 ---
 
