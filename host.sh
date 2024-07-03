@@ -7,7 +7,7 @@ termux-setup-storage
 read -rp "Press Enter once storage access has been set up..."
 
 # Set the target directory
-TARGET_DIR=" $HOME/storage/shared/#Coding"
+TARGET_DIR="$HOME/storage/shared/#Coding"
 
 # Check if the target directory exists
 if [ ! -d "$TARGET_DIR" ]; then
