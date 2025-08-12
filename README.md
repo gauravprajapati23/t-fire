@@ -7,7 +7,10 @@
 # Installation
 
 # Before 
-Before installing this file make a folder to your phone's internal Storage named : #Coding and remember don't delete it of don't keep any other things in it...
+Before installing this file make a folder to your phone's internal Storage named : #Coding (Same as it is) and remember don't delete it or don't keep any other things in it...
+
+#Setup Storage
+termux-setup-storage
 
 ## Install Git
 pkg install git
